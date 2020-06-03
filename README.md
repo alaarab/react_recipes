@@ -1,24 +1,21 @@
-# README
+React Recipes
+================
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This application was originally created to learn more about React and how it can be integrated as a front-end within a Rails application.
 
-Things you may want to cover:
+Ruby on Rails
+-------------
+This application requires:
 
-* Ruby version
+- Ruby 2.7.1
+- Rails 6.0.3.1
+- PostgreSQL
+- Yarn for Assets & Dependencies
 
-* System dependencies
+Demo
+-------------
+A demo can be found here: https://powerful-crag-25775.herokuapp.com/
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Credits
+-------
+Ala Arab - Developer
